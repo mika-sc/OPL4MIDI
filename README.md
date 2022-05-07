@@ -1,4 +1,5 @@
-# OPL4MIDI - LapisBlaster D2
+# --[Northern Project]--
+# 2nd Project PC Retro : LapisBlaster D2 - OPL4MIDI
 
 OPL4 YMF704 chip for wavetable card.
 
